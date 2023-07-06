@@ -32,6 +32,7 @@ a {
 body {
     background-color: #21618C;
     width: 100%;
+    margin-bottom: 80px;
 }
 .navsup {
     display: flex;
@@ -182,4 +183,9 @@ footer {
     flex-direction: column;
     align-items: center;
     text-align: center;
+  }
+
+  .resalte:hover {
+    font-weight: bold;
+    color: white;
   }
